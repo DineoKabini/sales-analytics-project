@@ -12,4 +12,11 @@ Python, Pandas, SQL, Excel, Power BI
 - Sales peak in November & December
 
 ## Visuals
-(Insert charts)
+## Visuals
+
+### Sales Trend
+![Sales Trend](visuals/sales_trend.png)
+
+### Revenue by Region
+![Revenue by Region](visuals/revenue_by_region.png)
+
